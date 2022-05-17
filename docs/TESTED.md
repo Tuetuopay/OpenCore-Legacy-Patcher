@@ -13,7 +13,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | MacBook7,1 | ^^ | MykolaG | ^^ | ^^ | ^^ |
 | ^^ | ^^ | Jazzzny | ^^ | ^^ | ^^ |
 | ^^ | ^^ | AlexSakha67 | ^^ | 0.0.20 | ^^ |
-| MacBook8,1 | <span style="color:red"> NO </span> | N/A | N/A | N/A | ^^ |
+| MacBook8,1 | ^^ | Tuetuopay | ^^ | 0.4.4 | ^^ |
 
 :::
 
